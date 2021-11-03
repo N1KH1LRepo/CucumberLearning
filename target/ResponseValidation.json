@@ -1,0 +1,13 @@
+{
+
+		"LoginResp": {
+			"@aliasName": "1",
+			"@userGUID": "<some Random Number>",
+			"@token": "regex.QSDK .{545}",
+			"@ccn": "0",
+			"@userName": "admin",
+			"@capability": "some random #"
+			
+			}
+			
+}

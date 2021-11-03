@@ -1,0 +1,14 @@
+{
+
+		"LoginResp": {
+			"@aliasName": "1",
+			"@userGUID": "<some Random Number>",
+			"@token": "some random number",
+			"@ccn": "0",
+			"@userName": "admin",
+			"@capability": "some random #"
+			
+			}
+			
+}
+			
